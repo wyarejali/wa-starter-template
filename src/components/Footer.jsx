@@ -8,7 +8,7 @@ const Footer = () => {
           Copyright © 2015 - {new Date().getFullYear()}{' '}
           <a target='_blank' rel='noreferrer' href='https://wyarejali.com'>
             wyarejali.com
-          </a>{' '}
+          </a>
           | All Rights Reserved
         </p>
       </div>
